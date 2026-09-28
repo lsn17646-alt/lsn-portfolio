@@ -2,7 +2,7 @@
 
 Personal portfolio website of Lv Shuning.
 
-Live Site: https://http://lvshuning.com
+Live Site: https://lvshuning-portfolio-2026.lsn17646.chatgpt.site
 
 This portfolio presents selected works in product design, interaction design, user research, service experience and visual storytelling.
 
